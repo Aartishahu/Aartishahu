@@ -4,6 +4,7 @@ let num=4;
 let ans=0;
 for(i=1;i<=n+1;i++){
     ans=ans^i;
+
 }
 for(i=0;i<num;i++){
     ans=ans^arr[i];
